@@ -47,6 +47,10 @@ html {
   border-radius: 4px;
 }
 
+.colourchange {
+  color: #000;
+}
+
 .btn-light {
   background-color: #bea59b;
   border-color: #bea59b;
